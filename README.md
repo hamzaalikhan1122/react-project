@@ -1,1 +1,1 @@
-RUN "npm install" inside the project folder, where package.json file is available.
+RUN "npm install" in terminal inside the project folder, where package.json file is available.
