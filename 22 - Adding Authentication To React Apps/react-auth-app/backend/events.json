@@ -1,0 +1,67 @@
+{
+  "events": [
+    {
+      "id": "e3",
+      "title": "Dummy Event 3",
+      "date": "2023-02-25",
+      "image": "https://blog.hubspot.de/hubfs/Germany/Blog_images/Optimize_Marketing%20Events%20DACH%202021.jpg",
+      "description": "Join this amazing event 3 and connect with fellow developers."
+    },
+    {
+      "id": "e4",
+      "title": "Dummy Event 4",
+      "date": "2023-02-26",
+      "image": "https://blog.hubspot.de/hubfs/Germany/Blog_images/Optimize_Marketing%20Events%20DACH%202021.jpg",
+      "description": "Join this amazing event 4 and connect with fellow developers."
+    },
+    {
+      "id": "e5",
+      "title": "Dummy Event 5",
+      "date": "2023-02-27",
+      "image": "https://blog.hubspot.de/hubfs/Germany/Blog_images/Optimize_Marketing%20Events%20DACH%202021.jpg",
+      "description": "Join this amazing event 5 and connect with fellow developers."
+    },
+    {
+      "id": "e6",
+      "title": "Dummy Event 6",
+      "date": "2023-02-28",
+      "image": "https://blog.hubspot.de/hubfs/Germany/Blog_images/Optimize_Marketing%20Events%20DACH%202021.jpg",
+      "description": "Join this amazing event 6 and connect with fellow developers."
+    },
+    {
+      "id": "e7",
+      "title": "Dummy Event 7",
+      "date": "2023-03-01",
+      "image": "https://blog.hubspot.de/hubfs/Germany/Blog_images/Optimize_Marketing%20Events%20DACH%202021.jpg",
+      "description": "Join this amazing event 7 and connect with fellow developers."
+    },
+    {
+      "id": "e8",
+      "title": "Dummy Event 8",
+      "date": "2023-03-02",
+      "image": "https://blog.hubspot.de/hubfs/Germany/Blog_images/Optimize_Marketing%20Events%20DACH%202021.jpg",
+      "description": "Join this amazing event 8 and connect with fellow developers."
+    },
+    {
+      "id": "e9",
+      "title": "Dummy Event 9",
+      "date": "2023-03-03",
+      "image": "https://blog.hubspot.de/hubfs/Germany/Blog_images/Optimize_Marketing%20Events%20DACH%202021.jpg",
+      "description": "Join this amazing event 9 and connect with fellow developers."
+    },
+    {
+      "id": "e10",
+      "title": "Dummy Event 10",
+      "date": "2023-03-04",
+      "image": "https://blog.hubspot.de/hubfs/Germany/Blog_images/Optimize_Marketing%20Events%20DACH%202021.jpg",
+      "description": "Join this amazing event 10 and connect with fellow developers."
+    }
+  ],
+  "users": [
+    {
+      "email": "hamzaalikhan900@gmail.com",
+      "password": "$2a$12$hha5h0LbVvjS5F4UlxuU3OxD5W6LVXV3UH4uQE3UdWwMK026UbJ52",
+      "id": "f0e4af01-9ba6-4ff5-a1bc-e2d9bc47931c"
+    }
+  ]
+}
